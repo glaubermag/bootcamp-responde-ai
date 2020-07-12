@@ -17,12 +17,12 @@
   ‌
 ## Alguns‌ ‌requisitos:‌ ‌
  ‌
-1.O‌ ‌botão‌ ‌"QUERO‌ ‌ME‌ ‌JUNTAR‌ ‌À‌ ‌FORÇA"‌ ‌(ou‌ ‌o‌ ‌texto‌ ‌que‌ ‌você‌ ‌preferir)‌ ‌não‌ ‌precisa‌ ‌ levar‌ ‌para‌ ‌lugar‌ ‌nenhum,‌ ‌nem‌ ‌fazer‌ ‌nada,‌ ‌seu‌ ‌objetivo‌ ‌é‌ ‌apenas‌ ‌implementar‌ ‌o‌ ‌ visual‌ ‌do‌ ‌botão.‌ ‌
+1. O‌ ‌botão‌ ‌"QUERO‌ ‌ME‌ ‌JUNTAR‌ ‌À‌ ‌FORÇA"‌ ‌(ou‌ ‌o‌ ‌texto‌ ‌que‌ ‌você‌ ‌preferir)‌ ‌não‌ ‌precisa‌ ‌ levar‌ ‌para‌ ‌lugar‌ ‌nenhum,‌ ‌nem‌ ‌fazer‌ ‌nada,‌ ‌seu‌ ‌objetivo‌ ‌é‌ ‌apenas‌ ‌implementar‌ ‌o‌ ‌ visual‌ ‌do‌ ‌botão.‌ ‌
 
-2.Os‌ ‌links‌ ‌para‌ ‌Instagram‌ ‌e‌ ‌Facebook‌ ‌devem‌ ‌levar‌ ‌para‌ ‌as‌ ‌páginas‌ ‌iniciais‌ ‌desses‌ ‌serviços:‌ ‌‌https://www.instagram.com/‌‌ ‌e‌ ‌‌https://www.facebook.com/‌ ‌
+2. Os‌ ‌links‌ ‌para‌ ‌Instagram‌ ‌e‌ ‌Facebook‌ ‌devem‌ ‌levar‌ ‌para‌ ‌as‌ ‌páginas‌ ‌iniciais‌ ‌desses‌ ‌serviços:‌ ‌‌https://www.instagram.com/‌‌ ‌e‌ ‌‌https://www.facebook.com/‌ ‌
 
-3.A‌ ‌caixa‌ ‌branca‌ ‌central‌ ‌deve‌ ‌ter‌ ‌800px‌ ‌de‌ ‌largura‌ ‌e‌ ‌ser‌ ‌centralizada‌ ‌na‌ ‌horizontal,‌ ‌conforme‌ ‌a‌ ‌imagem.‌ ‌‌Não‌ ‌é‌ ‌necessário‌‌ ‌centralizá-la‌ ‌na‌ ‌vertical.‌ ‌A‌ altura‌ ‌da‌ ‌caixa‌ ‌branca‌ ‌pode‌ ‌ser‌ ‌livre‌ ‌de‌ ‌acordo‌ ‌com‌ ‌o‌ ‌conteúdo‌ ‌dela.‌
+3. A‌ ‌caixa‌ ‌branca‌ ‌central‌ ‌deve‌ ‌ter‌ ‌800px‌ ‌de‌ ‌largura‌ ‌e‌ ‌ser‌ ‌centralizada‌ ‌na‌ ‌horizontal,‌ ‌conforme‌ ‌a‌ ‌imagem.‌ ‌‌Não‌ ‌é‌ ‌necessário‌‌ ‌centralizá-la‌ ‌na‌ ‌vertical.‌ ‌A‌ altura‌ ‌da‌ ‌caixa‌ ‌branca‌ ‌pode‌ ‌ser‌ ‌livre‌ ‌de‌ ‌acordo‌ ‌com‌ ‌o‌ ‌conteúdo‌ ‌dela.‌
 
-4.Não‌ ‌é‌ ‌necessário‌‌ ‌fazer‌ ‌uma‌ ‌versão‌ ‌para‌ ‌celular‌ ‌(responsiva)‌ ‌do‌ ‌site‌ ‌
+4. Não‌ ‌é‌ ‌necessário‌‌ ‌fazer‌ ‌uma‌ ‌versão‌ ‌para‌ ‌celular‌ ‌(responsiva)‌ ‌do‌ ‌site‌ ‌
  ‌
  ‌
