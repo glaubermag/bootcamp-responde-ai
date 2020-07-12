@@ -1,5 +1,6 @@
 html,
 body {
+    font-family: 'Roboto', sans-serif;
     margin: 0px;
 }
 
@@ -48,15 +49,28 @@ header {
 
 .box-paragrafo {
     font-size: 20px;
-    color: red;
+    margin-top: 2em;
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-bottom: 4em;
 }
 
-.img-darth {}
+.social-div {
+    text-align: right;
+    margin-right: 2em;
+}
+
+.title-div {
+    text-align: left;
+    margin-left: 2em;
+}
 
 .join-button {
     background-color: black;
     color: yellow;
-    padding: 2em;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 2em 5em 2em 4em;
     border-radius: 12px;
     text-transform: uppercase;
 }
